@@ -1,6 +1,6 @@
 # Hey there, I'm Adhit
 
-I'm currently exploring NLP and Vision domains and learning GPU programming.
+I'm currently exploring Mechanistic Interpretability, NLP and Vision.
 
 I love learning from the community and look forward to actively contributing to meaningful projects.
 
