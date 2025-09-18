@@ -1,16 +1,15 @@
 # Hey there, I'm Adhit
 
-I'm currently exploring Mechanistic Interpretability, NLP and Vision.
+I'm currently exploring Interpretability and Optimizations.
 
 I love learning from the community and look forward to actively contributing to meaningful projects.
 
-I'm currently working on creating an interesting datasets.
 
 ---
 
 ## Connect With Me
 
-- [Portfolio](https://erizosamurai.vercel.app)
+- [Portfolio](https://s-adhit.github.io)
 - [X](https://x.com/ErizoSamurai)
 - [LinkedIn](https://www.linkedin.com/in/adhitsimhadri/)
 
