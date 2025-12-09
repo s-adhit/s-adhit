@@ -1,6 +1,6 @@
 # Hey there, I'm Adhit
 
-I'm currently exploring Interpretability and Optimizations.
+I'm currently exploring Interpretability, Safety and Alignement in AI.
 
 I love learning from the community and look forward to actively contributing to meaningful projects.
 
